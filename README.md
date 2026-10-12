@@ -1,48 +1,39 @@
+<h1 align="center">Hey, I'm Ansh Sharma 👋</h1>
+<p align="center"><b>Python Backend Engineer | Django | FastAPI | AWS | AI/ML</b></p>
 
-<div align="center">
+<br>
 
-  <h1>Hey, I'm Ansh Sharma 👋</h1>
+<table align="center">
+  <tr>
+    <td width="45%" align="center">
+      <img src="./assets/ascii-art.png" alt="Ansh ASCII Art" width="100%" />
+    </td>
+    <td width="55%" valign="top">
 
-  <p>
-    <b>Python Backend Engineer | Django | FastAPI | AWS | AI/ML</b>
-  </p>
+```text
+ansh00sharma@github
+-------------------------------
+Name:       Ansh Sharma
+Role:       Python Backend Engineer
+Location:   New Delhi, India
+Focus:      Backend, Cloud, AI
+GitHub Age: 5 years+
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://neofetch-profile.vercel.app/api?username=ansh00sharma&amp;theme=github-dark&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fansh00sharma%2Fansh00sharma%2Fmain%2Fneofetch.json"
-    />
-    <img
-      alt="Ansh Sharma - Neofetch GitHub Profile"
-      width="100%"
-      src="https://neofetch-profile.vercel.app/api?username=ansh00sharma&amp;theme=github-light&amp;config=https%3A%2F%2Fraw.githubusercontent.com%2Fansh00sharma%2Fansh00sharma%2Fmain%2Fneofetch.json"
-    />
-  </picture>
+- Tech Stack -------------------
+Languages:  Python, SQL, JavaScript
+Backend:    Django, DRF, FastAPI, Flask
+Databases:  PostgreSQL, MySQL, Redis
+DevOps:     AWS, Docker, Nginx, CI/CD
+Async:      Celery, WebSockets
+AI/ML:      PyTorch, Scikit-learn
 
-</div>
+- Interests --------------------
+Building:   Scalable APIs and Systems
+Exploring:  AI, MLOps, Distributed Systems
+Other:      Cats, Gaming, Cosmology
 
----
-
-### 🚀 About Me
-
-- Backend Engineer building scalable APIs and distributed systems
-- Working with Python, Django, DRF, FastAPI, and PostgreSQL
-- Experienced with AWS, Docker, Redis, Celery, and CI/CD
-- Exploring AI/ML, cloud architecture, and MLOps
-- Based in New Delhi, India
-
-### 🛠 Tech Stack
-
-- **Languages:** Python, SQL, JavaScript
-- **Backend:** Django, DRF, FastAPI, Flask
-- **Databases:** PostgreSQL, MySQL, Redis
-- **DevOps:** AWS, Docker, Nginx, CI/CD
-- **Async:** Celery, WebSockets
-
----
-
-<div align="center">
-
-  <i>Building scalable backends, one commit at a time.</i>
-
-</div>
+- GitHub Stats -----------------
+Repos:      47
+Commits:    2,350
+Followers:  2
+Stars:      2
