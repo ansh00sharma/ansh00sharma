@@ -2,7 +2,7 @@
 <p align="center"><b>Python Backend Engineer | Django | FastAPI | AWS | AI/ML</b></p>
 
 <p align="center">
-  <img src="./assets/ascii-profile.png" alt="ASCII Profile" width="700" />
+  <img src="./assets/ansh_ascii.png" alt="ASCII Profile" width="700" />
 </p>
 
 ---
