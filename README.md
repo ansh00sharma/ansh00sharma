@@ -1,9 +1,6 @@
 <h1 align="center">Hey, I'm Ansh Sharma 👋</h1>
 <p align="center"><b>Python Backend Engineer | Django | FastAPI | AWS | AI/ML</b></p>
 
-<p align="center">
-  <img src="./assets/ansh_ascii.png" alt="ASCII Profile" width="700" />
-</p>
 
 ---
 
