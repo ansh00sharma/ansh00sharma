@@ -1,5 +1,11 @@
 
 {
+  "image": "https://raw.githubusercontent.com/ansh00sharma/ansh00sharma/main/assets/ansh_ascii.png",
+  "coloredImage": false,
+  "imageScale": 1.35,
+  "imageOffsetX": 0,
+  "imageOffsetY": 0,
+  "removeBackground": false,
   "backgroundColor": "#FFFFFF, #0D1117",
   "imageColor": "#24292F, #C9D1D9",
   "separatorColor": "#D0D7DE, #30363D",
@@ -7,30 +13,72 @@
     {
       "title": "{{username}}@github",
       "fields": [
-        {"key": "Name", "value": "Ansh Sharma"},
-        {"key": "Role", "value": "Python Backend Engineer"},
-        {"key": "Location", "value": "India"},
-        {"key": "Focus", "value": "Backend, Cloud, AI"},
-        {"key": "GitHub Age", "value": "{{uptime}}"}
+        {
+          "key": "Name",
+          "value": "Ansh Sharma"
+        },
+        {
+          "key": "Role",
+          "value": "Python Backend Engineer"
+        },
+        {
+          "key": "Location",
+          "value": "New Delhi, India"
+        },
+        {
+          "key": "Focus",
+          "value": "Backend, Cloud, AI"
+        },
+        {
+          "key": "GitHub Age",
+          "value": "{{uptime}}"
+        }
       ]
     },
     {
       "title": "- Tech Stack",
       "fields": [
-        {"key": "Languages", "value": "Python, SQL, JavaScript"},
-        {"key": "Backend", "value": "Django, DRF, FastAPI, Flask"},
-        {"key": "Databases", "value": "PostgreSQL, MySQL, Redis"},
-        {"key": "DevOps", "value": "AWS, Docker, Nginx, CI/CD"},
-        {"key": "Async", "value": "Celery, Redis, WebSockets"},
-        {"key": "AI/ML", "value": "PyTorch, Scikit-learn"}
+        {
+          "key": "Languages",
+          "value": "Python, SQL, JavaScript"
+        },
+        {
+          "key": "Backend",
+          "value": "Django, DRF, FastAPI, Flask"
+        },
+        {
+          "key": "Databases",
+          "value": "PostgreSQL, MySQL, Redis"
+        },
+        {
+          "key": "DevOps",
+          "value": "AWS, Docker, Nginx, CI/CD"
+        },
+        {
+          "key": "Async",
+          "value": "Celery, WebSockets"
+        },
+        {
+          "key": "AI/ML",
+          "value": "PyTorch, Scikit-learn"
+        }
       ]
     },
     {
       "title": "- Interests",
       "fields": [
-        {"key": "Building", "value": "Scalable APIs and Systems"},
-        {"key": "Exploring", "value": "AI, MLOps, Distributed Systems"},
-        {"key": "Other", "value": "Cats, Gaming, Cosmology"}
+        {
+          "key": "Building",
+          "value": "Scalable APIs and Systems"
+        },
+        {
+          "key": "Exploring",
+          "value": "AI, MLOps, Distributed Systems"
+        },
+        {
+          "key": "Other",
+          "value": "Cats, Gaming, Cosmology"
+        }
       ]
     }
   ],
@@ -38,12 +86,24 @@
     "title": "- GitHub Stats",
     "rows": [
       {
-        "left": {"key": "Repos", "value": "{{repos}}"},
-        "right": {"key": "Stars", "value": "{{stars}}"}
+        "left": {
+          "key": "Repos",
+          "value": "{{repos}}"
+        },
+        "right": {
+          "key": "Stars",
+          "value": "{{stars}}"
+        }
       },
       {
-        "left": {"key": "Commits", "value": "{{commits}}"},
-        "right": {"key": "Followers", "value": "{{followers}}"}
+        "left": {
+          "key": "Commits",
+          "value": "{{commits}}"
+        },
+        "right": {
+          "key": "Followers",
+          "value": "{{followers}}"
+        }
       },
       "loc"
     ]
