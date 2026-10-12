@@ -46,6 +46,7 @@ class AnshSharma:
 
 ### 🗄️ Databases & Async
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
@@ -70,15 +71,26 @@ class AnshSharma:
 
 ## 🚀 Featured Projects
 
-<!-- These are verified public repositories. Clicking a card takes visitors directly to its repository. -->
-<div align="center">
-<a href="https://github.com/ansh00sharma/My_Machine_Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh00sharma&repo=My_Machine_Learning&theme=tokyonight&hide_border=true" alt="Machine Learning projects" /></a>
-<a href="https://github.com/ansh00sharma/My_Data_Science"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh00sharma&repo=My_Data_Science&theme=tokyonight&hide_border=true" alt="Data Science projects" /></a>
-<a href="https://github.com/ansh00sharma/Tableau-Work"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh00sharma&repo=Tableau-Work&theme=tokyonight&hide_border=true" alt="Tableau projects" /></a>
-<a href="https://github.com/ansh00sharma/My_Web_Development"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ansh00sharma&repo=My_Web_Development&theme=tokyonight&hide_border=true" alt="Web Development projects" /></a>
+<h2 align="center">🚀 Featured Project</h2>
 
-<a href="https://github.com/ansh00sharma?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" /></a>
+<div align="center">
+  <h3>🏠 My Project House</h3>
+
+  <p>
+    A central hub showcasing my personal projects,
+    backend applications, AI/ML experiments,
+    and everything I'm building.
+  </p>
+
+  <a href="https://your-website-url.com" target="_blank">
+    <img src="https://img.shields.io/badge/Explore_My_Projects-Visit_Project_House-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Projects" />
+  </a>
+
+  <p>
+    <sub>💻 Backend Development • ☁️ Cloud • 🤖 AI/ML • 🚀 Experiments</sub>
+  </p>
 </div>
+
 
 ## 📊 GitHub Analytics
 
