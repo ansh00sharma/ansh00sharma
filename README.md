@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,45:7c3aed,100:06b6d4&height=190&section=header&text=Ansh%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=37&desc=Python%20Backend%20Engineer%20%7C%20Cloud%20%7C%20AI%2FML&descAlignY=60&descSize=17&animation=fadeIn" alt="Ansh Sharma banner" width="100%" />
 
 <a href="https://github.com/ansh00sharma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Django+%7C+FastAPI+%7C+PostgreSQL;AWS+%7C+Docker+%7C+Redis+%7C+Celery;Exploring+AI%2FML+and+distributed+systems" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FAF9F6&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Django+%7C+FastAPI+%7C+PostgreSQL;AWS+%7C+Docker+%7C+Redis+%7C+Celery;Exploring+AI%2FML+and+distributed+systems" alt="Typing introduction" />
 </a>
 
 <p>
